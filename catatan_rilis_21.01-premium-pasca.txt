@@ -1,6 +1,6 @@
 Di rilis ini, versi 21.01-premium-pasca tersedia [untuk diisi]. Rilis ini juga berisi perbaikan lain yang diminta Komunitas SID.
 
-Terima kasih pada afa28, Agung Sugiarto, Zeppy Shiddiq, Ariandi Ryan Kahfi, Il Ham dan Ians Shinichi Kudo yang terus berkontribusi. Terima kasih pula pada [untuk diisi] yang baru mulia berkontribusi.
+Terima kasih pada afa28, Agung Sugiarto, Zeppy Shiddiq, Arif Lazuardi, Ariandi Ryan Kahfi, Il Ham dan Ians Shinichi Kudo yang terus berkontribusi. Terima kasih pula pada [untuk diisi] yang baru mulia berkontribusi.
 
 Lengkapnya, isi rilis versi 21.01-premium-pasca adalah sebagai berikut:
 
@@ -45,6 +45,7 @@ Fitur Premium:
 22. #3813: Perbaiki keterangan data orang tua dari calon pria dan calon wanita pada Surat Keterangan Untuk Nikah. [bug-fix]
 23. #3949: Tampilkan lapisan peta pembangunan di pengaturan peta area/lokasi/garis.
 24. Sederhanakan script mengambil data dusun/rw/rt. [teknis]
+25. #2278: Sediakan Buku Administrasi Desa > Buku Mutasi Penduduk.
 
 
 Selalu diingatkan, apabila meng-upgrade (yaitu bukan install baru) dari versi SEBELUM versi 21.01-premium-pasca, lakukan Database > Migrasi DB untuk menyesuaikan struktur database dan folder desa.
